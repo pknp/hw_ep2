@@ -1,6 +1,6 @@
 import turtle as t
 t.shape('turtle')
-t.pen(speed=20,pensize=5)
+t.pen(speed=10,pensize=5)
 #=========================== Mouth ===========================
 def draw_mouth(rad1,rad2,rad3):
  for i in range(1):
